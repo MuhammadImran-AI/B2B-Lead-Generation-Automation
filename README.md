@@ -1,22 +1,22 @@
-# B2B Lead Generation & Automation Workflow
+# B2B Lead Generation & Automation Workflow (DACH Region)
 
-Automated B2B lead generation campaign targeting IT Decision Makers (CIOs, CTOs, Heads of IT) across Germany.
+Automated B2B lead generation campaign targeting 1,000+ IT Decision Makers (CIOs, CTOs, Heads of IT) across Germany (DE), Austria (AT), and Switzerland (CH).
 
 ---
 
 ### 📊 Dataset Overview
-- **Total Leads Qualified:** 370+ Verified Leads
-- **Target Profiles:** C-Suite, IT Directors, Heads of Infrastructure
-- **Data Compliance:** All sample data is fully anonymized to maintain strict GDPR compliance.
+- **Total Qualified Leads:** 1,000+ Verified B2B Decision Makers
+- **Target Profiles:** C-Suite (CIO/CTO/CDO), IT Directors, Heads of Infrastructure
+- **Data Compliance:** All sample data is fully anonymized to strictly maintain GDPR compliance.
 
 ---
 
 ### ⚙️ Automation & Tech Tools Used
-- **Sourcing:** Apollo.io & LinkedIn Sales Navigator
+- **Sourcing & Scraping:** Apollo.io & LinkedIn Sales Navigator
 - **Verification:** NeverBounce & ZeroBounce
 - **Workflow & CRM Setup:** Make.com / HubSpot Integration
 
 ---
 
 ### 📁 Files Included
-- `B2B_Lead_Generation_Germany_IT_Report.xlsx`: Multi-tab lead breakdown (Summary, Private Sector, Public/Education).
+- Multi-tab master breakdown (DACH Summary, Regional Sample Leads).
